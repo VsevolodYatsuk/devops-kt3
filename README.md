@@ -1,4 +1,4 @@
-![image](https://github.com/VsevolodYatsuk/devops-kt3/assets/130091517/6a969638-6466-431e-a94c-30c3dac6d091)![image](https://github.com/VsevolodYatsuk/devops-kt3/assets/130091517/7a32bee6-6c0d-4cd9-a8bf-bab4cf7fb43b)# README
+# README
 
 ## Изменения в файле Python
 
